@@ -1,5 +1,5 @@
 {
-  "name": "Shutter Trail",
-  "description": "An interactive visual experience featuring a fading cursor trail that triggers a camera shutter effect to reveal a hidden image.",
+  "name": "VIEWAVER",
+  "description": "https://viewaver.vercel.app",
   "requestFramePermissions": []
 }
